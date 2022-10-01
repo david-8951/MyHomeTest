@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">MyHomeTest</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dommyText2">
+        <br>
+            the video call feature can be
+        </br>
+        <br>
+              access from anywhere in your
+        </br>
+        <br>
+                    house to help you
+        </br>
+    </string>
+    <string name="dommyText3">
+        <br>
+            Nobody likes to be alone and the
+        </br>
+        <br>
+            built-in group video call feature
+        </br>
+        <br>
+                      helps you connect
+        </br>
+    </string>
+
+    <string name="dommyText4">
+        <br>
+                while working the app reminds
+        </br>
+        <br>
+               you to smile,laugh, walk and talk
+        </br>
+        <br>
+                    with those who matters
+        </br>
+    </string>
+</resources>
